@@ -1,11 +1,10 @@
 import 'dart:io';
-import 'dart:js';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_insta/src/view/upload.dart';
+import 'package:flutter_insta/src/view/03 upload.dart';
 import 'package:get/get.dart';
 
-import '../view/message_popup.dart';
+import '../view/02 message_popup.dart';
 
 enum PageName { HOME, SEARCH, UPLOAD, ACTIVITY, MYPAGE}
 

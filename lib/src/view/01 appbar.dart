@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_insta/src/viewmodel/bottom_nav_controller.dart';
+import 'package:flutter_insta/src/viewmodel/01 bottom_nav_controller.dart';
 import 'package:flutter_insta/src/components/image_data.dart';
 import 'package:get/get.dart';
 

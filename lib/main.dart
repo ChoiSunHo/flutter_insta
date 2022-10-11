@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_insta/src/init_bindings.dart';
 import 'package:get/get.dart';
 
-import 'src/view/app.dart'; // 2022.10.11 GetX 라이브러리 불러오기
+import 'src/view/01 appbar.dart'; // 2022.10.11 GetX 라이브러리 불러오기
 
 void main() {
   runApp(const MyApp());
