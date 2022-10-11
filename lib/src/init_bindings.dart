@@ -5,7 +5,7 @@ import 'package:get/get.dart';
 class InitBinding extends Bindings{
   @override
   void dependencies() {
-    Get.put(BottomNavController(),permanent:true); // 2022.10.11 git 테스트
+    Get.put(BottomNavController(),permanent:true); // 2022.10.11 git 테스트 입니다
   }
 
 }
